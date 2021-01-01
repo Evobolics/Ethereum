@@ -26,6 +26,7 @@ Articles on Keccak and SHA-3
 
 List of Keccek Implementations in various Languages 
 * https://keccak.team/software.html
+* https://github.com/XKCP/XKCP
 
 Other Useful Articles
 * https://medium.com/bugbountywriteup/breaking-down-md5-algorithm-92803c485d25
