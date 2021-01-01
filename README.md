@@ -6,6 +6,10 @@ Repos You Should Visit
 * https://github.com/NethermindEth/nethermind
 * https://github.com/Nethereum/Nethereum
 
+Books on Ethereum
+* https://github.com/ethereumbook/ethereumbook
+* https://learning.oreilly.com/library/view/mastering-ethereum/9781491971932/ch04.html
+
 Papers on Keccak and SHA-3 (note, they are slightly different)
 * https://keccak.team/index.html
 * https://keccak.team/files/Keccak-reference-3.0.pdf
