@@ -23,6 +23,7 @@ Articles on Keccak and SHA-3
 * https://medium.com/asecuritysite-when-bob-met-alice/one-of-the-greatest-advancements-in-cybersecurity-the-sponge-function-keccak-and-shake-6e6c8e298682
 * https://crypto.stackexchange.com/questions/26747/why-have-round-constants-in-hashes
 * https://keccak.team/keccak_specs_summary.html
+* https://keccak.team/files/CSF-0.1.pdf
 
 List of Keccek Implementations in various Languages 
 * https://keccak.team/software.html
